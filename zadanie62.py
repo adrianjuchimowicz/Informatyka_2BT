@@ -36,4 +36,4 @@ with open("liczby2.txt") as plik:
 
 licznik = 0
 for i in range(len(liczby8)):
-    pass
+    pass;
